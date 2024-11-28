@@ -1,4 +1,4 @@
-# Project 7: HR Analytics - Employee Attrition Analysis and Prediction
+# HR Analytics - Employee Attrition Analysis and Prediction
 
 ## **Overview**
 This project aims to analyze and predict employee attrition using HR analytics data. It involves data exploration, statistical testing, machine learning modeling, and visualization to uncover patterns in employee turnover and identify key factors influencing attrition.
