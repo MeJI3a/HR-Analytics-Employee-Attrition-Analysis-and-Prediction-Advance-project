@@ -23,7 +23,7 @@ This project aims to analyze and predict employee attrition using HR analytics d
 
 4. **Visualization Dashboards**:
    - **Tableau Project**: A dashboard to explore data interactively.  
-     (**Link: [To be added]**).
+     (**Link: [https://public.tableau.com/app/profile/zana.simanel/viz/EmployeeTurnoverAnalysis_17364231956300/AttritionDasboard]**).
 
 ---
 
