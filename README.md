@@ -54,6 +54,11 @@ This project aims to analyze and predict employee attrition using HR analytics d
    - **`SQL_and_Statistical_Analysis_Report`**: Documentation of SQL queries and statistical analysis, including hypothesis testing and regression results.
    - **`Employee_Attrition_Analysis_and_Prediction`**: A comprehensive project report summarizing all findings.
 
+5. **ipynb files**
+   - **`CleanedData.ipynb`**: Prepared a cleaned dataset for employee attrition analysis.
+   - **`DataAnalysis.ipynb`**: Document outlines the process of connecting to a PostgreSQL database, retrieving employee data, and performing detailed analysis to derive insights.
+   - **`Attrition Prediction Modeling.ipynb`**: Exploratory Data Analysis (EDA) uncovered patterns and correlations that informed the predictive modeling.
+
 ---
 
 ## **Key Highlights**
